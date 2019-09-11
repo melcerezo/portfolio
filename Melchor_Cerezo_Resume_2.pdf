@@ -1,0 +1,484 @@
+
+
+<!DOCTYPE html>
+<html class="responsive">
+<head id="Head1"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" /><meta name="msapplication-config" content="none" /><meta id="metaDesc" name="Description" content="Welcome back!  Please sign in." /><meta id="metaKeys" name="Keywords" content="resume builder, cover letter builder, jobs, careers, salary calculator, job interview help" /><title>
+	Member Sign In - My Perfect Resume
+</title><link href="/css/common.css" rel="stylesheet" />
+    
+    <style>
+        .si-logos{display: inline-block;text-indent: -500px;overflow: hidden;}
+        @font-face{font-family:'FontAwesome';src:url('/fonts/fontawesome-webfont.eot?v=4.2.0');src:url('/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),url('/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'),url('/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'),url('/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font-family:FontAwesome;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+        .fa-spinner:before{content:"\f110"}.fa-circle:before{content:"\f111"}
+        .fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
+    </style>
+
+    <script src="/javascript/modernizr.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>
+        (window.jQuery) || document.write('<script src="/javascript/jquery-1.8.3.min.js"><\/script>');
+    </script>
+    <script src="/javascript/common.js"></script>
+    <script src="/javascript/segment.js"></script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NXP87FS');</script><script>$(window).on('load',function(){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KQ55PV6');})</script><script src="//cdn.optimizely.com/js/130872158.js"></script><script>window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js", a.onload=function(){ $(document).ready(function(){ AsyncSegTrack(); })}, a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9",$(window).on('load',function(){window.analytics.load("cL4YcYAd0L873ZkIw0VoHYy3EtEXXCuu");})</script><script> enableUserService=true; </script><link id="lnkfaviconimg" rel="shortcut icon" /><link id="lnkMpFavicon" rel="icon" type="image/png" href="../images/rwz/favicon.png" /><link id="ltrIphone" rel="apple-touch-icon" href="../images/rwz/touch-icon-iphone.png" /><link id="ltrIpad" sizes="76x76" rel="apple-touch-icon" href="../images/rwz/touch-icon-ipad.png" /><link id="ltrIphoneRetina" sizes="120x120" rel="apple-touch-icon" href="../images/rwz/touch-icon-iphone-retina.png" /><link id="ltrIpadRetina" sizes="152x152" rel="apple-touch-icon" href="../images/rwz/touch-icon-ipad-retina.png" />
+    <script type="application/ld+json">
+    { "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "MyPerfectResume",
+  "alternateName" : "My Perfect Resume",
+ "address": [{
+    "@type": "PostalAddress",
+    "addressLocality": "San Francisco, CA",
+    "postalCode": "94102",
+    "streetAddress": "1 Hallidie Plaza Suite 600"
+  }],
+  "logo" : "https://wp.myperfectresume.com/wp-content/uploads/2016/02/MPR_logo.png",
+  "url" : "https://www.myperfectresume.com",
+  "sameAs" : [
+          "https://www.facebook.com/MyPerfectResume/",
+          "https://twitter.com/Perfect_Resume_",
+          "https://plus.google.com/103471280099620810557/posts"
+   ],
+   "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+1-855-213-0348",
+      "contactType" : ["customer service","technical support","billing support","bill payment","credit card support"],
+      "contactOption" : "TollFree",
+      "areaServed" : ["US","CA","MX"],
+      "availableLanguage" : ["English","Spanish"]
+    },  { "@type" : "ContactPoint",
+      "telephone" : "+44-0800-189-0676",
+      "contactType" : ["customer service","technical support","billing support","bill payment","credit card support"],
+      "contactOption" : "TollFree",
+      "areaServed" : ["UK","IRL"],
+      "availableLanguage" : ["English"]
+    },  { "@type" : "ContactPoint",
+      "telephone" : "+800-758-379",
+      "contactType" : ["customer service","technical support","billing support","bill payment","credit card support"],
+      "contactOption" : "TollFree",
+      "areaServed" : ["AU"],
+      "availableLanguage" : ["English"]
+    } ]  }       
+}
+    </script>
+
+    <script type="text/javascript">
+      
+        var fpCounterVal = readCookie("fpcounter");
+        var captchaValid = null;
+        if (fpCounterVal > 2) // make it fpCounterVal > 2
+        {  
+            var onloadCallback = function () {
+                grecaptcha.render('divCaptcha', {
+                    'sitekey': "6LeHfm0UAAAAAElJEFmaKspHNk8M8X36042Ibj8F",
+                    'callback': verifyCallback
+                });                
+            };
+
+            var verifyCallback = function (response) {
+                $("#errMsgCaptcha").text('');
+                console.log("executed", response);
+            };            
+            
+        }
+        
+    </script>  
+    </head>
+<body class="signin-page" onload="javascript:bLoaded=true;">
+    <div class="fake-overlay pf dn" id="fake-overlay"></div>
+
+    <form name="unAuthForm" method="post" action="signin.aspx?targ=https%3a%2f%2fwww.myperfectresume.com%2faccount%2fresume-home.aspx%3fproductid%3d17" id="unAuthForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9809EE59" />
+</div>
+        <div id="dvHeaderMPR">
+            <header class="header">
+                <div class="container">
+                    <p class="pt20px pb20px lh0"><a href="//www.myperfectresume.com//mpr.aspx" id="aLogoMPR" class="si-logos mpr-logo-h31px">MyPerfectResume.com</a></p>
+                </div>
+            </header>
+        </div>
+
+        
+
+        <div class="main fo" id="maincontent">
+            <div class="container fo">
+                <section class="pageheads tac">
+                    <h1 class="head">Welcome back!  Please sign in.</h1>
+                </section>
+
+
+                <section class="content">
+                    <div class="google-signin-ctnr-new">
+                        <a href="javascript:callGoogle();" class="btn br3px ffr google-icon-loginpage" id="acr-google-signin"><span class="social-icons vam">
+                            <img src="/svg/google.svg" alt="google" /></span>Sign in with Google</a>
+                        
+                        <a href="javascript:callFacebook();" class="btn margin-bt-0" id="acr-facebook-signin"><span class="social-icons">
+                            <img src="/svg/facebook.svg" alt="google" /></span>Sign in with Facebook</a>
+                        
+                        <p class="or-ctnr tac margin-top-40"><span class="or ffr pr">OR</span></p>
+                    </div>
+
+
+                    <div class="mb20px">
+                        <p class="placeholder fwb mb5px dn">
+                            <label for="txtUserName">Email Address</label>
+                        </p>
+                        <input name="UserName" type="email" maxlength="50" id="UserName" tabindex="1" class="input" autofocus="" placeholder="Email Address" />
+                        <p class="error-email red mt7px lh1"></p>
+                    </div>
+
+                    <div class="mb20px">
+                        <p class="placeholder fwb mb5px dn">
+                            <label for="txtPassword">Password</label>
+                        </p>
+                        <input name="Password" type="password" maxlength="16" id="Password" tabindex="2" class="input" placeholder="Password" />
+                        <p class="error-password red mt7px lh1"></p>
+
+                        
+                    </div>
+
+                    <p><a id="lnkForgotPasswd" href="//www.myperfectresume.com/membership/remind.aspx" class="uu">Forgot your password?</a></p>
+
+                    <label class="fs13px dib vam mt12px">
+                        <span class="vam"><input id="ChkRemember" type="checkbox" name="ChkRemember" checked="checked" tabindex="4" /></span>
+                        Keep me logged in (Uncheck if on a shared computer)</label>
+                </section>
+                
+                    <div id="divCaptcha"></div>
+                    <p id="errMsgCaptcha" class="red"></p>
+                    <p id="errMsgLastAttempt" class="red"></p>
+                
+                <section class="cta-btn-ctnr">
+                    <input type="submit" id="submitButton" name="Submit" value="Submit" tabindex="5" class="btn btn-green btn-shadow vam" onclick="if (buttonHandler('NEXT', '')) { return true; } else { return false; }" />
+                </section>
+
+                <p class="new-user-acr-ctnr mt15px tac">Need an account? <a id="lnkSignUp" href="//www.myperfectresume.com//membership/registerguestuser.aspx?wizard=true&productid=17" class="uu">Sign up for free</a></p>
+
+                
+
+                <input type="hidden" name="hdnAttempts" id="hdnAttempts" value="0" />
+                <input type="hidden" name="hdnLightBoxVal" id="hdnLightBoxVal" value="True" />
+                 
+                <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit&hl=en-US" async defer></script>
+                  
+            </div>
+        </div>
+    </form>
+    
+
+<link href="/CSS/lp-footer-responsive.css" rel="stylesheet" />
+
+<footer class="footer-new footer-new-small" id="footer">
+		<section class="top-sec">
+			<div class="container">
+				<nav class="footer-nav">
+					<a href="/information/termsofuse.aspx" target="_blank" class="nav-url">Terms &amp; Conditions</a>
+					<a href="/privacy-policy" target="_blank" class="nav-url">Privacy Policy</a>
+					<a href="/contact-us" id="lnkCont" target="_blank" class="nav-url">Contact Us</a>
+				</nav>
+				
+			</div>	
+		</section>
+		<section class="bottom-footer">
+			<div class="container">
+				<span class="copyright-text">© 2019, Bold Limited. All rights reserved.</span>
+            </div>
+		</section>
+</footer>
+    
+
+    <script>
+        var _frompagevalue = 'Return Login';
+        function getQuerystring(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+
+        var submitted = false;
+        var pageName = '';
+
+        function buttonHandler(aButton, appendid) {
+            var UserName_ctrlID = $("[id*='UserName']");
+            TrackEvents('login screen clicks', { 'click option': 'submit' }, null, null, false);
+
+            submitted = true;
+            $('.error-server').hide();
+
+            var sUid;
+            var sPwd;
+            var emailRegex = /.*@.*\..*/;
+            var UserName_ctrlID = $("[id*='UserName']");
+            var Password_ctrlID = $("[id*='Password']");
+            var $error_email = $('.error-email');
+            var $error_password = $('.error-password');
+            sUid = UserName_ctrlID.val();
+            sPwd = Password_ctrlID.val();
+
+            if (aButton == "NEXT") {
+                if (sUid == "") {
+                    $error_email.text("Please enter an email address.").show();
+                    UserName_ctrlID.focus();
+                    return false;
+                }
+                else if (sUid && !emailRegex.test(sUid)) {
+                    $error_email.text("Please enter a valid email address.").show();
+                    UserName_ctrlID.focus();
+                    var prev_val = sUid;
+                    UserName_ctrlID.val(sUid);
+                    return false;
+                }
+                else if (sPwd == "") {
+                    $error_password.text("Please enter a password").show();
+                    Password_ctrlID.focus();
+                    return false;
+                }
+
+                else if (sUid.length > 50) {
+                    $error_email.text("Max username length exceeded. Please reenter.").show();
+                    UserName_ctrlID.val('');
+                    UserName_ctrlID.focus();
+                    return false;
+                }
+                else if (sPwd.length > 16) {
+                    $error_password.text("Max password length exceeded. Please reenter.").show();
+                    Password_ctrlID.val('');
+                    Password_ctrlID.focus();
+                    return false;
+                }
+                else if (PortalID !="37" && typeof fpCounterVal !="undefined" &&  fpCounterVal >= 3)
+                {
+                    var captchaResponse = grecaptcha.getResponse();
+                    if (captchaResponse.length == 0) {                       
+                        captchaValid = false;//reCaptcha not verified
+                    }
+                    else
+                        captchaValid = true;
+
+                    if (captchaValid == false) {
+                        $("#errMsgCaptcha").text("Please validate captcha to login");
+                        return false;
+                    }
+                    else if (captchaValid == true) {
+                        $("#errMsgCaptcha").text('');
+                        return true;
+                    }
+                }
+                else {
+                    return true;
+                }
+            }
+        }
+
+        function callGoogle() {
+            TrackEvents('login screen clicks', { 'click option': 'google log in' }, null, null, false, true);
+
+            var bKeepLoggedIn = false;
+            if (document.getElementById("ChkRemember").checked == true) {
+                bKeepLoggedIn = true;
+            }
+
+            if (typeof createCookie != "undefined") {
+                var target = decodeURIComponent(getQueryString("targ"));
+                target != "null" ? createCookie("SocialLoginTarg", target, 1) : "";
+            }
+
+            window.open('//www.myperfectresume.com/membership/google-controller.aspx?new=&productid=' + '17' + '&switchsession=0', 'Googlepopup', 'width=900,height=500,left=100');
+        }
+        //Blank function is used by segment.io after page load
+       // function AsyncSegTrack() { }
+
+        $('#lnkForgotPasswd').click(function () {
+            TrackEvents('login screen clicks', { 'click option': 'forgot password' }, null, null, false);
+        });
+
+        $('#lnkSignUp').click(function () {
+            TrackEvents('login screen clicks', { 'click option': "don't have an account" }, null, null, false);
+        });
+
+        $('#ChkRemember').change(function () {
+            TrackEvents('login screen clicks', { 'click option': "stay signed in" }, null, null, false);
+        });
+
+        function callFacebook() {
+            var bKeepLoggedIn = false;
+            if (document.getElementById("ChkRemember").checked == true) {
+                bKeepLoggedIn = true;
+            }
+
+            if (typeof createCookie != "undefined") {
+                var target = decodeURIComponent(getQueryString("targ"));
+                target != "null" ? createCookie("SocialLoginTarg", target, 1) : "";
+            }
+            window.open('//www.myperfectresume.com/membership/fb-controller.aspx', 'Fbpopup', 'width=900,height=500,left=100');
+        }
+        function OpenFeedBackWindow() {
+            var FeedBack = "";
+            FeedBack = '//www.myperfectresume.com/includes/FeedBack.aspx?Prod=17';
+            window.open(FeedBack + "&Target=" + escape(location.href), 'livecareer', 'width=550,height=610,scrollbars=1,toolbar=0,resizable=1,menubar=0');
+            return false;
+        }
+
+        var FreshDeskActivate = 'True';  
+        var PortalCode = 'MPR';
+        var PortalID = '16';
+        if (PortalID == 20) {
+            PortalCode = 'MPCL';
+        }
+
+        $(document).ready(function () {
+            $('#aspnetForm').attr('inspectlet-form-analytics', 'sign-in');//MPR-25
+             
+            if (fpCounterVal >= 4) {                   
+                $("#errMsgLastAttempt").text("You have one more attempt before your account is locked, please use forgot password to retrieve your password.");
+            }
+            
+            var $error_email = $('.error-email');
+            var $error_password = $('.error-password');
+            var emailRegex = /.*@.*\..{2,}/;
+            var $UserName = $('[id$="UserName"]');
+            var $signup_loading = $('.signup-loading-img');
+            var $fake_overlay = $('#fake-overlay');
+
+            if ($signup_loading.length) {
+                $UserName.blur();
+                $fake_overlay.removeClass('dn');
+            }
+
+            $("[id$='UserName']").on('keyup', function () {
+                if (submitted) {
+                    var val = $(this).val();
+                    var len = val.length;
+
+                    if (len > 1) {
+                        if (emailRegex.test(val)) {
+                            $error_email.hide();
+                        }
+
+                        else {
+                            $error_email.text('Please enter a valid email address.').show();
+                        }
+                    }
+                    else {
+                        $error_email.text('Please enter an email address.').show();
+                    }
+                }
+            });
+
+            $("[id$='Password']").on('keyup', function () {
+                if (submitted) {
+                    var val_len = $(this).val().length;
+                    if (val_len > 1 && val_len < 17) {
+                        $error_password.hide();
+                    }
+                }
+            });
+
+            var $fc_chat_layout = $('#fc_chat_layout');
+            $(document.body).addClass('fcChatBody'); //Class is added for freshdesk Flashing
+
+            if (FreshDeskActivate.toUpperCase() == 'TRUE') {
+
+                var find_fc_chat_layout = setInterval(function () {
+                    $fc_chat_layout = $('#fc_chat_layout');
+
+                    if ($fc_chat_layout.length) {
+                        clearInterval(find_fc_chat_layout);
+                        $('body').removeClass('fcChatBody');
+
+                        var $liveperson_chat_ctnr = $('#lpButDivID-1378283549245'),
+                            $liveperson_chat_button = $liveperson_chat_ctnr.find('.lpStaticButtonTR');
+
+                        $liveperson_chat_button.find('img').unwrap();
+                        $liveperson_chat_ctnr.addClass('cp oh').css({ 'width': '259px', 'height': '44px', 'margin-bottom': '4px' });
+                        $fc_chat_layout.css({ 'margin-bottom': '-45px' });
+                        var fc_chat_container_h = $('#fc_chat_container').height();
+                        var $fc_chat_title = $fc_chat_layout.find('.fc_pre-form').children('p:eq(0)').text();
+                        $liveperson_chat_button.find('img').attr('title', $fc_chat_title);
+
+                        $('body').find("#fc_chat_layout").on('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function (e) {
+                            if (parseInt($fc_chat_layout.css('bottom')) == -fc_chat_container_h) {
+                                $fc_chat_layout.animate({ 'margin-bottom': '-45px' }, 100);
+                            }
+                        });
+
+                        $liveperson_chat_ctnr.on({
+                            mouseenter: function () { $(this).css({ 'background-position': '0 -40px' }); },
+                            mouseleave: function () { $(this).css({ 'background-position': '0 0' }); },
+                            click: function () { $('#fc_chat_header').click(); }
+                        });
+                    }
+                }, 500);
+            }
+        });
+    </script>
+
+    <script type="text/javascript">
+
+        $(window).on("load", (function () {
+            var isViaTimeout = 'true';
+            if (typeof analytics !== 'undefined' && isViaTimeout == 'true') {
+                TrackEvents("reached timeout", null, null, null, false);
+            }
+
+            var images = [];
+            function preload() {
+                for (var i = 0; i < arguments.length; i++) {
+                    images[i] = new Image();
+                    images[i].src = preload.arguments[i];
+                }
+            }
+            function loadScript(url, callback) {
+                var script = document.createElement("script");
+                script.type = "text/javascript";
+                if (script.readyState) {  //IE
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.readyState == "complete") {
+                            script.onreadystatechange = null;
+                            callback && callback();
+                        }
+                    };
+                } else {
+                    script.onload = function () {
+                        callback && callback();
+                    };
+                }
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            }
+            loadScript("/javascript/windows.js");
+            loadScript("/javascript/dashboard-jobs.js");
+            loadScript("/javascript/livehelp.js");
+            preload("../images/header_bg_dashboard.png");
+            var poweredByLogo = $('.poweredby-logo').addClass('si lc-logo-w110');
+            $('head').append('<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400|Roboto:400,500|Roboto+Slab:300,400|Source+Sans+Pro:200,300,400,600,700,900" />');
+            var style = document.createElement('style');
+            style.type = 'text/css';
+            style.id = "PostLoadFont";
+            style.innerHTML = "@font-face{font-family:'Source Sans Pro Regular';font-style:normal;font-weight:400;src:local('Source Sans Pro'),local('SourceSansPro-Regular'), url(//themes.googleusercontent.com/static/fonts/sourcesanspro/v5/ODelI1aHBYDBqgeIAH2zlBM0YzuT7MdOe03otPbuUS0.woff) format('woff');}body{background-color:#FFF;font-size:14px;color:#333;font-family:'Source Sans Pro Regular';}";
+            document.getElementsByTagName('head')[0].appendChild(style);
+
+            
+        }));
+
+        function createCookie(c_name, value, exdays) {
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate() + exdays);
+            var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString()) + "; path=/";
+            document.cookie = c_name + "=" + c_value;
+        }
+
+    </script>
+
+    
+    <script src="https://content.livecareer.com/mpr/scripts/desktop/prefetchscript.js"></script>
+    
+</body>
+</html>
