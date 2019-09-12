@@ -1,8 +1,8 @@
 version: 0.1
+
 phases:
   commands:
     - echo Nothing to do yet
-
 artifacts:
   files:
     - index.html
