@@ -12,7 +12,5 @@ artifacts:
     - index.html
     - favicon.ico
     - Melchor_Cerezo_Resume_2.pdf
-    - styles/main.css
-    - images/webinar_archive.png
-    - images/richer_picture.png
-    
+    - styles/*
+    - images/*
