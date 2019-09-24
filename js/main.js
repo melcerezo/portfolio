@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import ExampleWork from './example-work';
 import SectionTitle from './section-title';
 import WorkHeader from './header';
+import AboutSection from './about-description';
 
 
 const portLinks = [
@@ -49,3 +50,4 @@ ReactDOM.render(<WorkHeader myLinks={portLinks}/>, document.getElementById('exam
 ReactDOM.render(<SectionTitle sectionTitle={ 'Portfolio' }/>, document.getElementById('portfolioTitle'));
 ReactDOM.render(<ExampleWork work={myWork}/>, document.getElementById('example-work'));
 ReactDOM.render(<SectionTitle sectionTitle={ 'About Me' }/>, document.getElementById('aboutTitle'));
+ReactDOM.render(<AboutDescription />, document.getElementById('aboutDescription'));
