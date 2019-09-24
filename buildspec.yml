@@ -15,7 +15,13 @@ artifacts:
   files:
     - index.html
     - favicon.ico
+    - favicon-16x16.png
+    - favicon-32x32.png
     - Melchor_Cerezo_CV_092319.pdf
     - styles/*
     - images/*
     - dist/bundle.js
+    - site.webmanifest
+    - apple-touch-icon.png
+    - android-chrome-192x192.png
+    - android-chrome-512x512.png
