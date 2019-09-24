@@ -56,8 +56,19 @@ const myWork = [
     }
   }
 ]
-ReactDOM.render(<WorkHeader myLinks={portLinks}/>, document.getElementById('example-header'));
-ReactDOM.render(<SectionTitle sectionTitle={ 'Portfolio' }/>, document.getElementById('portfolioTitle'));
-ReactDOM.render(<ExampleWork work={myWork}/>, document.getElementById('example-work'));
-ReactDOM.render(<SectionTitle sectionTitle={ 'About Me' }/>, document.getElementById('aboutTitle'));
-ReactDOM.render(<AboutDescription />, document.getElementById('aboutDescription'));
+
+const pageStructure = (
+  <div>
+    <WorkHeader myLinks={portLinks}/>
+    <SectionTitle sectionTitle={ 'Portfolio' }/>
+    <ExampleWork work={myWork}/>
+    <SectionTitle sectionTitle={ 'About Me' }/>
+    <AboutDescription />
+  </div>
+);
+
+ReactDOM.render(pageStructure, document.getElementById('root'));
+// ReactDOM.render(<SectionTitle sectionTitle={ 'Portfolio' }/>, document.getElementById('portfolioTitle'));
+// ReactDOM.render(<ExampleWork work={myWork}/>, document.getElementById('example-work'));
+// ReactDOM.render(<SectionTitle sectionTitle={ 'About Me' }/>, document.getElementById('aboutTitle'));
+// ReactDOM.render(<AboutDescription />, document.getElementById('aboutDescription'));
