@@ -15,7 +15,7 @@ class WorkHeader extends React.Component {
             return (
               <PortLink workLink={myWorkLink} />
             )
-          })};
+          })}
 
         </ul>
       </main>
