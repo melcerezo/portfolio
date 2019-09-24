@@ -15,7 +15,7 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - Melchor_Cerezo_Resume_2.pdf
+    - Melchor_Cerezo_CV_092319.pdf
     - styles/*
     - images/*
     - dist/bundle.js

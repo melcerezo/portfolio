@@ -1,6 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ExampleWork from './example-work';
+import SectionTitle from './section-title';
+import WorkHeader from './header';
+
+
+const portLinks = [
+  {
+    'linkTitle':"LinkedIn Profile",
+    'linkHref':"https://linkedin.com/in/melchor-cerezo/",
+    'icon':"fa-linkedin",
+  },
+  {
+    'linkTitle':"GitHub Profile",
+    'linkHref':"https://github.com/melcerezo",
+    'icon':"fa-github",
+  },
+  {
+    'linkTitle':"Resume",
+    'linkHref':"Melchor_Cerezo_CV_092319.pdf",
+    'icon':"fa-file-text",
+  }
+]
 
 const myWork = [
   {
@@ -24,4 +45,7 @@ const myWork = [
     }
   }
 ]
+ReactDOM.render(<WorkHeader myLinks={portLinks}/>, document.getElementById('example-header'));
+ReactDOM.render(<SectionTitle sectionTitle={ 'Portfolio' }/>, document.getElementById('portfolioTitle'));
 ReactDOM.render(<ExampleWork work={myWork}/>, document.getElementById('example-work'));
+ReactDOM.render(<SectionTitle sectionTitle={ 'About Me' }/>, document.getElementById('aboutTitle'));
