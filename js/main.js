@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import ExampleWork from './example-work';
 import SectionTitle from './section-title';
 import WorkHeader from './header';
-import AboutSection from './about-description';
+import AboutDescription from './about-description';
 
 
 const portLinks = [
