@@ -5,8 +5,8 @@ class AboutDescription extends React.Component {
     return(
       <section class="section section--alignCentered section--description">
         <p class="color--darkgrey section__description">
-          I am learning to code in the cloud! I like to work hard and learn new things.
-          I want to work for a company that will pay me to code in the cloud!
+        Experienced IT professional offering experience and expertise in cloud and web app development, and web app quality assurance testing. Focused on developing elegant web apps utilizing the power of AWS Services, such as EC2 and S3, and implementing continuous integration/continuous deployment. Experienced in writing, and executing test cases and test plans to thoroughly test web applications.
+
         </p>
       </section>
     )
