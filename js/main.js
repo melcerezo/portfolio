@@ -19,7 +19,7 @@ const portLinks = [
   },
   {
     'linkTitle':"Resume",
-    'linkHref':"Melchor_Cerezo_CV_092319.pdf",
+    'linkHref':"Melchor_Cerezo_CV_100319.pdf",
     'icon':"fa-file-text",
   }
 ]
